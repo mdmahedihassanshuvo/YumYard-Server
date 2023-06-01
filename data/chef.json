@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "chefName": "Julia Child",
+        "yearsOfExperience": 50,
+        "numRecipes": 500,
+        "numAwards": 12,
+        "like": 20,
+        "imgLink": "https://i.ibb.co/Hd1kKLB/chef-1.jpg"
+    },
+    {
+        "id": 2,
+        "chefName": "Gordon Ramsay",
+        "yearsOfExperience": 30,
+        "numRecipes": 300,
+        "numAwards": 25,
+        "like": 50,
+        "imgLink": "https://i.ibb.co/rb9L8bT/chef-2.png"
+    },
+    {
+        "id": 3,
+        "chefName": "Ina Garten",
+        "yearsOfExperience": 35,
+        "numRecipes": 400,
+        "numAwards": 8,
+        "like": 15,
+        "imgLink": "https://i.ibb.co/0qzkS6b/chef-3.png"
+    },
+    {
+        "id": 4,
+        "chefName": "Anthony Bourdain",
+        "yearsOfExperience": 25,
+        "numRecipes": 200,
+        "numAwards": 4,
+        "like": 10,
+        "imgLink": "https://i.ibb.co/kMXnrYX/chef-4.jpg"
+    },
+    {
+        "id": 5,
+        "chefName": "Alice Waters",
+        "yearsOfExperience": 45,
+        "numRecipes": 350,
+        "numAwards": 10,
+        "like": 30,
+        "imgLink": "https://i.ibb.co/L0TJkNN/chef-6.jpgp"
+    },
+    {
+        "id": 6,
+        "chefName": "Bobby Flay",
+        "yearsOfExperience": 35,
+        "numRecipes": 450,
+        "numAwards": 15,
+        "like": 25,
+        "imgLink": "https://i.ibb.co/L0TJkNN/chef-6.jpg"
+    }
+]

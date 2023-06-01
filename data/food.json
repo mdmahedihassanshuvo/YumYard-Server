@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "recipe_name": "Spaghetti Carbonara",
+      "ingredients": [
+        "spaghetti",
+        "guanciale or pancetta",
+        "egg yolks",
+        "pecorino romano cheese",
+        "black pepper"
+      ],
+      "cooking_method": "1. Cook spaghetti according to package instructions. \n2. While spaghetti is cooking, sauté guanciale or pancetta in a pan until crispy. \n3. Beat egg yolks, pecorino romano cheese, and black pepper in a bowl. \n4. When spaghetti is done, drain it and reserve some of the pasta water. \n5. Add spaghetti to the pan with the guanciale or pancetta and toss to combine. \n6. Remove pan from heat and add the egg yolk mixture, stirring quickly to coat the spaghetti. \n7. If the sauce is too thick, add some reserved pasta water to thin it out.",
+      "rating": 4.5,
+      "image_link": "https://i.ibb.co/bRcDF08/food-1.jpg"
+    },
+    {
+      "id": 2,
+      "recipe_name": "Margherita Pizza",
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "fresh mozzarella cheese",
+        "fresh basil",
+        "olive oil"
+      ],
+      "cooking_method": "1. Preheat oven to 500°F (260°C). \n2. Roll out pizza dough to desired thickness. \n3. Spread tomato sauce evenly over dough, leaving a small border around the edge. \n4. Tear fresh mozzarella into small pieces and scatter over sauce. \n5. Place fresh basil leaves on top of cheese. \n6. Drizzle olive oil over pizza. \n7. Bake for 10-12 minutes, until crust is golden brown and cheese is melted and bubbly.",
+      "rating": 4.8,
+      "image_link": "https://i.ibb.co/Rvj1zC9/food-2.webp"
+    },
+    {
+      "id": 3,
+      "recipe_name": "Lasagna",
+      "ingredients": [
+        "lasagna noodles",
+        "ground beef",
+        "tomato sauce",
+        "ricotta cheese",
+        "mozzarella cheese"
+      ],
+      "cooking_method": "1. Cook lasagna noodles according to package instructions. \n2. Brown ground beef in a pan, then add tomato sauce and simmer for 10 minutes. \n3. In a separate bowl, mix together ricotta cheese and shredded mozzarella cheese. \n4. Preheat oven to 375°F (190°C). \n5. Layer lasagna noodles, meat sauce, and cheese mixture in a baking dish, ending with a layer of cheese. \n6. Cover with foil and bake for 25 minutes. \n7. Remove foil and bake for an additional 25 minutes, until cheese is golden brown and bubbly.",
+      "rating": 4.7,
+      "image_link": "https://i.ibb.co/FVY6nt8/food-3.jpg"
+    }
+  ]
